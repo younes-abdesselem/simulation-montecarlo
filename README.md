@@ -1,6 +1,6 @@
 # Simulation de Monte-Carlo — File d'attente en laboratoire
 
-Projet réalisé dans le cadre du module R208 (Probabilités et Simulation) en BUT Science des Données, IUT Lumière Lyon 2.
+Projet réalisé de manière personnel, sujet realisé par une IA.
 
 ## Contexte
 
